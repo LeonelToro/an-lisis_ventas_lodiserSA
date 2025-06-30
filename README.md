@@ -69,10 +69,10 @@ Se diseñó un tablero ejecutivo interactivo en **Power BI**, aplicando medidas 
 ## 🖼️ Capturas del Dashboard
 
 ### Página de Reporte Ejecutivo
-![Captura Reporte Ejecutivo](./Screenshot%20reporte.png)
+![Captura Reporte Ejecutivo](./Screenshot%20rep.png)
 
 ### Página de Análisis por Producto
-![Captura Análisis por Producto](./Screenshot%20productos.png)
+![Captura Análisis por Producto](./Screenshot%20prod.png)
 
 ## 🎯 Objetivo del proyecto
 
@@ -163,10 +163,10 @@ An interactive executive dashboard was built in **Power BI**, including custom *
 ## 🖼️ Dashboard Screenshots
 
 ### Executive Report Page
-![Executive Report Screenshot](./Screenshot%20reporte.png)
+![Executive Report Screenshot](./Screenshot%20rep.png)
 
 ### Product Analysis Page
-![Product Analysis Screenshot](./Screenshot%20productos.png)
+![Product Analysis Screenshot](./Screenshot%20prod.png)
 
 ## 🎯 Project Objectives
 
